@@ -1,3 +1,18 @@
 body{
-    background-color: blueviolet;
+    background-image: url()
+}
+.pamatlaukums{
+    background-color: rgb(214, 228, 241);
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(185, 239, 154);
+    padding: 10px;
+    margin: auto;
+}
+.catazina{
+    background-color: blue;
+    width: 420px;
+    padding: 10px;
+    overflow: scroll;
+    color: aliceblue;
 }
